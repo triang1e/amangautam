@@ -43,7 +43,7 @@ export default function Home() {
           <div className="glass">
             <div className="dashboard">
               <div className="user">
-                <img src="public/aman.png" alt="Aman Gautam" />
+                <img src="/Aman.png" alt="Aman Gautam" />
                 <h1>Aman Gautam</h1>
                 <h3>Pro Member</h3>
                 {/* <div className="pro">
