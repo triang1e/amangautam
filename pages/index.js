@@ -43,7 +43,7 @@ export default function Home() {
           <div className="glass">
             <div className="dashboard">
               <div className="user">
-                <img src="/Aman.png" alt="Aman Gautam" />
+                <img src="/amanpfp.png" alt="Aman Gautam" />
                 <h1>Aman Gautam</h1>
                 <h3>Pro Member</h3>
                 {/* <div className="pro">
@@ -84,7 +84,7 @@ export default function Home() {
               </div>
               <div className="cards">
                 <div className="card">
-                  <img src="/Controller.jpg" alt="" />
+                  <img src="/controllerImage.jpg" alt="" />
                   <div className="card_info">
                   <h1>Salesforce</h1>
                   <h3>PS5 Version</h3>
