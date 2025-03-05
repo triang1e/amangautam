@@ -45,11 +45,7 @@ export default function Home() {
               <div className="user">
                 <img src="./amanpfp.png" alt="Aman Gautam" />
                 <h1>Aman Gautam</h1>
-                <h3>Pro Member</h3>
-                {/* <div className="pro">
-                  <img src="/medal.jpg" alt="" />
-                  <h3>Pro Member</h3>
-                </div> */}
+                <h3>Non Pro Member</h3>
               </div>
               <div className="links"> 
                 <a
